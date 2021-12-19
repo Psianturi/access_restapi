@@ -29,6 +29,6 @@ samples, guidance on mobile development, and a full API reference.
 
 
 - Note:
-  If you have dart issue when the first time open this project, download the dart.
+  If you have dart issue when the first time open this project, download the dart SDK.
   If you still have an error, try Run the project use your mobile phone. The application will running in your phone.
   After that you can edit this project with no error.
